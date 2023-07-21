@@ -457,8 +457,8 @@ We appreciate any and all contributions to the project and are grateful for your
 
 We would like to extend our thanks to the following individuals for their contributions to this project:
 
+-   [Ahmad Bodayr](https://github.com/AhmadBodayr) (Scrum Master)
 -   [Loay Hesham](https://github.com/LoayHesham0) 
--   [Ahmad Bodayr](https://github.com/AhmadBodayr) 
 -   [Nour El Deen](https://github.com/nouraldeenm0) 
 -   [Mina Samy](https://github.com/minasamy9090) 
 
