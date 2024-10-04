@@ -23,7 +23,7 @@ By adhering to these code style guidelines, we can ensure that the codebase is m
 
 ![Landing](https://user-images.githubusercontent.com/47356106/210193114-3553eee8-5f41-4c75-9ae9-42c452511fe6.png)
 ![CoursePage](https://user-images.githubusercontent.com/47356106/210193156-ae885161-3b48-4a87-aa68-1841f13460e9.png)
-![Lesson](https://user-images.githubusercontent.com/47356106/210193058-07d752e2-876c-420e-b598-5ae154185e9d.png)
+
 
 
 
